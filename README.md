@@ -1,4 +1,4 @@
-# Telephone directory Versione Mobile
+# Telephone directory Mobile Edition
 You are to build a mobile application that provides a telephone directory.
 
 ## Entries
