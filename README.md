@@ -24,6 +24,8 @@ The application consists of the following pages:
 
 ### Extra activities (not mandatory)
 * Deploy the application in a Mobile App Distribution Platform (e.g. TestFlight, HockeyApp, Beta (Fabric), etc.)
+* Compatibility with Tablet devices
+* Screen rotation handling
 
 
 ## General requirements
