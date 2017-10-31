@@ -1,5 +1,5 @@
 # Telephone directory Mobile Edition
-You are to build a mobile application that provides a telephone directory.
+You have to build a mobile application that provides a telephone directory.
 
 ## Entries
 The application handles a set of entries, that contain a first name, last name, and a telephone number.
